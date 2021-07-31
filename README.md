@@ -8,3 +8,4 @@ Keep the **servy.exe** file inside the folder where you have the html files. Run
 
 The link will open automatically in chrome browser and can be monitored.
 
+**Download Link** : [servy.exe](https://github.com/shayansaha85/servy/raw/master/installable/servy.exe)
